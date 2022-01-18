@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/CCloserMan/C.Daz",
-  "repository": "https://github.com/CCloserMan/C.Daz",
+  "website": "https://github.com/DCloserMan/C.Daz",
+  "repository": "https://github.com/DCloserMan/C.Daz",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
