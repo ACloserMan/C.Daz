@@ -1,6 +1,6 @@
 {
-  "name": "C.Daz",
-  "description": "C.Daz",
+  "name": "Daz",
+  "description": "Daz",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/DCloserMan/C.Daz",
-  "repository": "https://github.com/DCloserMan/C.Daz",
+  "website": "https://github.com/ACloserMan/C.Daz",
+  "repository": "https://github.com/ACloserMan/C.Daz",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
